@@ -16,9 +16,21 @@ All the recipes combined form a cookbook 📒!
 
 Happy cooking! 😉 🥙 🍱 🍲
 
-To get started have a look at the tutorials_ and then browse through the
-available recipes_ to find something the better suits your 'taste' (i.e., your needs)!
+Using the Recipes
+======
 
+To get started have a look at the tutorials_ and then browse through the
+available recipes_ to find something that better suits your 'taste' (i.e., your needs)!
+
+Contributing to the Recipes
+======
+
+`"COSIMA exists to reap the benefits of collaboration" <https://cosima.org.au/index.php/about-2/ethics/>`_
+**We welcome and encourage contributions from everyone**, be that contribution in the form of:
+
+ - Code (like what you can find in this `recipes` repository)
+ - A new tool (like the python package to run `regional configurations of mom6 <https://github.com/COSIMA/regional-mom6>`_ )
+ - An idea or suggestion for improvement (you can see examples of these on this repository's `Issues <https://github.com/COSIMA/cosima-recipes/issues>`_ )
 
 .. _tutorials: tutorials.html
 .. _recipes: recipes.html
